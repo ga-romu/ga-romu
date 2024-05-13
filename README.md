@@ -1,6 +1,6 @@
 # print ('Hello Friend') 🤖 
 
-Welcome to my page! I'm **Gabriel**, a data-driven landscape architect 🏔️ from **Santiago, Chile** 🇨🇱
+Welcome to my page! I'm **Gabriel**, a Geospatial Data Scientist 🏔️ from **Santiago, Chile** 🇨🇱
 
 <h2> 👨🏽‍💻 &nbsp;About me </h3>
 
