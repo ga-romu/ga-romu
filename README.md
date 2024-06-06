@@ -2,6 +2,9 @@
 
 Welcome to my page! I'm **Gabriel**, a Geospatial Data Scientist 🏔️ from **Santiago, Chile** 🇨🇱
 
+Cross-disciplinary professional with a background in landscape architecture, international studies, and data science. Passionate about analyzing global phenomena and large-scale processes. Currently involved in the management of state-funded projects. Proficient in multiple programming languages, database management, GIS, data visualization, and machine learning operations. Highly motivated to apply my creativity and inventiveness to the development of innovative data analytics solutions. Seeking a challenging position where I can contribute my skills and experience to make a positive impact.
+
+
 <h2> 👨🏽‍💻 &nbsp;About me </h3>
 
 - 🌐 &nbsp; Passionate about geospatial data analysis and visualization
